@@ -1,0 +1,21 @@
+body{
+	background-color:#ebe6d9;
+	color:black;
+	font-family:"Open Sans", Helvetica, sans-serif;
+	margin:5% 10%;
+}
+h3{
+	text-decoration:underline;
+}
+.info{
+	text-decoration:none;
+}
+a{
+	color:black;
+}
+a::hover{
+	color:black;
+}
+a::visited{
+	color:black;
+}
